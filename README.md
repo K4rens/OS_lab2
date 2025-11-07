@@ -1,0 +1,2 @@
+# OS_lab2
+VARIANT 6
